@@ -3,8 +3,7 @@ class Solution {
         
         int a[]= new int[nums.length];
 
-        int k=1;
-        for(int i=0;i<nums.length;i++)
+       for(int i=0;i<nums.length;i++)
         {
             int lsum=0;
             int rsum=0;
